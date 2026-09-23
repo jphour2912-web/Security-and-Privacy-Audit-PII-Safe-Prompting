@@ -1,0 +1,1 @@
+Exploring privacy, PII protection, and responsible GenAI use in aviation. This lab covers data classification, privacy risks, data minimisation, safe prompts, placeholders, sensitive information handling, verification of policy claims, and human review for professional aviation communication.
